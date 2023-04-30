@@ -1,0 +1,2 @@
+# hunc
+go mod example
