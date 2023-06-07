@@ -4,4 +4,4 @@ repositorio teste
 atualização na main.
 
 novamente
- para fixar
+ para fixar com resolução
