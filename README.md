@@ -6,4 +6,4 @@ atualização na main.
 novamente
 
  para fixar com resolução
-PULL REQUEST OH
+ agora entendi como fazer o pullrequest
